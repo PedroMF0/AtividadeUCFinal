@@ -1,0 +1,64 @@
+@charset "utf-8";
+@import "https://fonts.googleapis.com/css?family=Noto+Serif";
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 28px;
+    color: gold;
+    margin-top: -20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Estilos para a seção de FAQ */
+.faq {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
+
+.faq h3 {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.faq p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+footer {
+    clear: both; 
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
