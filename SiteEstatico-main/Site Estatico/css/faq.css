@@ -35,30 +35,29 @@ nav ul li a {
     color: white;
 }
 
-/* Estilos para a seção de FAQ */
+
 .faq {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 20px auto;
     padding: 20px;
     text-align: left;
 }
 
 .faq h3 {
-    font-size: 20px;
+    font-size: 28px;
     margin: 10px 0;
 }
 
 .faq p {
-    font-size: 16px;
+    font-size: 20px;
     margin: 5px 0;
 }
 
 footer {
-    clear: both; 
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 10px 0;
+    padding: 10px;
+    margin-top: 90px; 
 }
-
 
